@@ -1,0 +1,44 @@
+{
+  "projects": [
+    {
+      "visible": true,
+      "category": "🕹️ Gatsby, Netlify, Github",
+      "title": "Portfolio with Continuous Deployment",
+      "description": "Personal portfolio using Gatsby hosted on Netlify. Linked Github repository to support continuous deployment",
+      "tags": ["Gatsby", "Continuous Deployment"],
+      "image": {
+        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
+        "alt": "Quick Setup",
+        "linkTo": "https://github.com/michaelpaguilar"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/michaelpaguilar"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "🧰 Upcoming Projects",
+      "title": "TODO",
+      "description": "I'm constantly on the lookout for new opportunities to expand my skillset. I have several projects in the pipeline as I explore data engineering and cloud development. I will be updating this section and my Github account as more progress is made.",
+      "tags": ["Upcoming"],
+      "image": {
+        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
+        "alt": "Extendable Layout"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/michaelpaguilar"
+        }
+      ]
+    }
+  ],
+  "button": {
+    "visible": true,
+    "label": "Visit on Github",
+    "url": "https://github.com/michaelpaguilar"
+  }
+}

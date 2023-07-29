@@ -1,0 +1,42 @@
+{
+  "siteMetadata": {
+    "language": "en",
+    "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
+    "title": "Michael Aguilar Portfolio",
+    "titleTemplate": "%s · Portfolio Minimal",
+    "description": "Michael Aguilar full stack developer portfolio.",
+    "author": "Michael Aguilar",
+    "avatar": "../content/images/notebook.png",
+    "bio": "",
+    "social": {
+      "github": "https://github.com/michaelpaguilar",
+      "linkedin": "https://www.linkedin.com/in/michaelpaguilar/",
+      "mail": "mailto:Michael.P.Aguilar@gmail.com"
+    }
+  },
+  "siteConfiguration": {
+    "logo": { "text": "Portfolio" },
+    "navigation": {
+      "header": [
+        { "label": "About", "url": "/#about" },
+        { "label": "Skills", "url":"/#details"},
+        { "label": "Projects", "url": "/#features" },
+        { "label": "Contact", "url": "/#github" }
+      ],
+      "ctaButton": {
+        "openNewTab": true,
+        "label": "Resume",
+        "url": "/resume.pdf"
+      },
+      "footer": [
+        { "label": "Privacy", "url": "/privacy" },
+        { "label": "Imprint", "url": "/imprint" }
+      ]
+    },
+    "featureToggles": {
+      "useDarkModeAsDefault": false,
+      "useDarkModeBasedOnUsersPreference": true,
+      "useCookieBar": false
+    }
+  }
+}

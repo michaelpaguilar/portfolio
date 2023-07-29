@@ -1,0 +1,21 @@
+{
+  "intro": "Hafa adai!",
+  "heroPhoto": {
+    "src": "../../images/profile.png",
+    "alt": "My Photo"
+  },
+  "image": {
+    "src": "../../images/waving-hand.png",
+    "alt": "Waving Hand Emoji"
+  },
+  "title": "I'm Michael Aguilar",
+  "subtitle": {
+    "prefix": "Full stack developer/mechanical engineer",
+    "suffix": "."
+  },
+  "description": "Let's make some cool stuff together",
+  "socialProfiles": {
+    "from": ["LinkedIn", "Github", "Mail"],
+    "showIcons": false
+  }
+}
