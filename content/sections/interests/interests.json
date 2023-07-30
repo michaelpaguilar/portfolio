@@ -3,42 +3,49 @@
     {
       "label": "C#",
       "image": {
-        "src": "../../images/joystick.png",
+        "src": "../../images/csharp-logo.png",
         "alt": ""
       }
     },
     {
       "label": ".NET",
       "image": {
-        "src": "../../images/notebook.png",
+        "src": "../../images/core-icon.png",
         "alt": ""
       }
     },
     {
       "label": "SQL",
       "image": {
-        "src": "../../images/nail-polish.png",
+        "src": "../../images/sql-icon.png",
         "alt": ""
       }
     },
     {
       "label": "Powershell",
       "image": {
-        "src": "../../images/medium.png",
+        "src": "../../images/powershell-icon.png",
         "alt": ""
       }
     },
     {
       "label": "React",
       "image": {
-        "src": "../../images/gem-stone.png",
+        "src": "../../images/react.png",
         "alt": ""
       }
     },
     {
       "label": "Typescript",
       "image": {
-        "src": "../../images/mobile-phone.png",
+        "src": "../../images/typescript-icon.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Git",
+      "image": {
+        "src": "../../images/git-icon.png",
         "alt": ""
       }
     },
@@ -52,14 +59,14 @@
     {
       "label": "Python",
       "image": {
-        "src": "../../images/high-voltage.png",
+        "src": "../../images/python-icon.png",
         "alt": ""
       }
     },
     {
       "label": "Azure",
       "image": {
-        "src": "../../images/notebook.png",
+        "src": "../../images/azure-icon.png",
         "alt": ""
       }
     }
