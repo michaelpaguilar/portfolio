@@ -8,13 +8,13 @@
       "tags": ["Gatsby", "Continuous Deployment"],
       "image": {
         "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
-        "alt": "Quick Setup",
-        "linkTo": "https://github.com/michaelpaguilar"
+        "alt": "My Portfolio",
+        "linkTo": "https://github.com/michaelpaguilar/portfolio"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/michaelpaguilar"
+          "url": "https://github.com/michaelpaguilar/portfolio"
         }
       ]
     },
@@ -22,7 +22,7 @@
       "visible": true,
       "category": "🧰 Upcoming Projects",
       "title": "TODO",
-      "description": "I'm constantly on the lookout for new opportunities to expand my skillset. I have several projects in the pipeline as I explore data engineering and cloud development. I will be updating this section and my Github account as more progress is made.",
+      "description": "Patience please! I have several projects in the pipeline as I explore data engineering and cloud development. I will be updating this section and my Github account as more progress is made.",
       "tags": ["Upcoming"],
       "image": {
         "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",

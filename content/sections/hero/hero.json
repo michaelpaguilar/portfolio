@@ -1,5 +1,5 @@
 {
-  "intro": "Hafa adai!",
+  "intro": "Håfa Adai!",
   "heroPhoto": {
     "src": "../../images/profile.png",
     "alt": "My Photo"
@@ -10,7 +10,7 @@
   },
   "title": "I'm Michael Aguilar",
   "subtitle": {
-    "prefix": "Full stack developer/mechanical engineer",
+    "prefix": "Full Stack Developer/Mechanical Engineer",
     "suffix": "."
   },
   "description": "Let's make some cool stuff together",
