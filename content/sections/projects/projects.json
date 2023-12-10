@@ -7,7 +7,7 @@
       "description": "Personal portfolio using Gatsby hosted on Netlify. Linked Github repository to support continuous deployment",
       "tags": ["Gatsby", "Continuous Deployment"],
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
+        "src": "../../images/Computer.png",
         "alt": "My Portfolio",
         "linkTo": "https://github.com/michaelpaguilar/portfolio"
       },
@@ -20,12 +20,29 @@
     },
     {
       "visible": true,
-      "category": "🧰 Upcoming Projects",
+      "category": "🧰 Azure, OpenCV, Python",
+      "title": "Path Tracker",
+      "description": "Intended to be used for weightlifting barbell path tracking and technique analysis. On blob creation, Azure Function gets triggered to process an input video file. Object trajectory gets mapped and saved as a gif file in an output blob container. ",
+      "tags": ["Azure Functions", "Azure Blob Storage", "OpenCV", "Python"],
+      "image": {
+        "src": "../../images/Tracker.png",
+        "alt": "Path Tracker"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/michaelpaguilar/PathTracker"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "Upcoming Projects",
       "title": "TODO",
       "description": "Patience please! I have several projects in the pipeline as I explore data engineering and cloud development. I will be updating this section and my Github account as more progress is made.",
       "tags": ["Upcoming"],
       "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
+        "src": "../../images/Keyboard.png",
         "alt": "Extendable Layout"
       },
       "links": [

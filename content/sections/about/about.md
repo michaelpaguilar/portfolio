@@ -1,5 +1,5 @@
 ---
-imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
+imageSrc: "../../images/Typing.png"
 imageAlt: "About Me"
 ---
 
@@ -8,5 +8,3 @@ I'm a Portland, Oregon based full stack developer and mechanical engineer. I pri
 I specialize in .NET solutions for large scale enterprise systems hosted both on premise and on Azure. With almost a decade of industry experience, I understand firsthand the importance of well defined requirements, solid architecture, maintainable code, and simplicity. 
 
 The ever changing landscape of the tech world complements my inherent curiosity and fear of stagnation. I am constantly on the lookout for ways to increase my knowledge as new technologies, frameworks, and methodologies emerge. 
-
-Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash
